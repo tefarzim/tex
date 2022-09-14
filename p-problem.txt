@@ -1,0 +1,123 @@
+One summer afternoon in 2001, while visiting relatives in India, Subhash Khot drifted into his default mode — quietly contemplating the limits of computation. For hours, no one could tell whether the third-year Princeton University graduate student was working or merely sinking deeper into the living-room couch. That night, he woke up, scribbled something down and returned to bed. Over breakfast the next morning, he told his mother that he had come up with an interesting idea. She didn’t know what it was, but her reserved older son seemed unusually happy.
+
+Khot’s insight — now called the Unique Games Conjecture — helped him make progress on a problem he was working on at the time, but even Khot and his colleagues did not realize its potential. “It just sounded like an idea that would be nice if it was true,” recalled Khot, now a 36-year-old computer science professor at New York University’s Courant Institute of Mathematical Sciences.
+
+When Khot returned to Princeton, he mentioned the idea to Sanjeev Arora, his doctoral adviser, who advised him to hold off on publishing it. “I wasn’t sure it was going to be a good paper,” Arora said. “I thought it was maybe a little premature, that it was just a month since he had the idea.”
+
+    A Grand Vision for the Impossible
+
+Khot wrote the paper anyway. “I was just a graduate student,” Khot said of the decision. “I wasn’t expecting anyone to take me seriously to begin with.”
+
+In a sense, Khot’s insight completed an idea set in motion by another mentor, Johan Håstad of the Royal Institute of Technology in Stockholm. But even Håstad ignored Khot’s conjecture at first. “I thought it might get proven or disproven in a year,” he said. “It took us awhile to realize it had all these consequences.”
+
+Over the next several years, what seemed a modest observation — that a particular assumption could simplify certain approximation algorithm problems — grew into one of the most influential new ideas in theoretical computer science. Today, for his “prescient” assumption and his subsequent leadership in “the effort to understand its complexity and its pivotal role in the study of efficient approximation of optimization problems,” Khot was awarded the 2014 Rolf Nevanlinna Prize, widely considered one of the top honors in his field.
+
+There are many talented people who can solve problems — few people can change the way we look at things.
+
+Assaf Naor
+
+In announcing the prize on its website, the International Mathematical Union also credited Khot’s work for generating “new exciting interactions between computational complexity, analysis and geometry.”
+
+Khot, who tends to keep his thoughts close and acknowledgment of his achievements even closer, was as surprised as his colleagues by the success of the Unique Games Conjecture. “I definitely didn’t expect that this small proposal would go so far,” he said.
+
+Although Arora, like others studying the limits of approximation algorithms, was initially unconvinced by Khot’s “pie in the sky” idea, he now credits his former graduate student for sensing that his proposal could clear “a fundamental stumbling block.”
+
+“His intuition was right,” Arora said. “He’s now probably the number one expert in that field.”
+Khot in his hometown of Ichalkaranji, India, on his third birthday.
+
+Khot in his hometown of Ichalkaranji, India, on his third birthday.
+
+Courtesy Subhash Khot
+
+Assaf Naor, an Israeli mathematician who has worked closely with Khot for almost a decade, nominated his colleague and friend for a $200,000 Microsoft fellowship in 2005, the National Science Foundation’s prestigious Alan T. Waterman Award in 2010, and this year’s Nevanlinna Prize. “I see in his work more than just a collection of really good papers: I see an agenda, an original point of view,” Naor said. “There are many talented people who can solve problems — few people can change the way we look at things.”
+Three Cookies
+
+The way Khot looks at things might strike some as pessimistic. Given his research into the theoretical limitations of computers, perhaps it is natural that he tends to see what cannot be done or what might go wrong. When packing for vacations, for example, Khot tries to anticipate any ailments that could strike his 2-year-old son, Neev, by bringing all the medicine he thinks his family could need.
+
+“He has a good sense of what’s going to go wrong — he’s very analytical,” said his wife, Gayatri Ratnaparkhi, a 32-year-old analyst at the Federal Reserve Bank of New York. “And the end result is that not much goes wrong in our lives.”
+
+But Khot’s analytical approach can also be maddening, Ratnaparkhi said. “He tries to optimize things in every possible way,” she said. When walking from point A to point B, for example, Khot always wants to find the shortest path. Ratnaparkhi has to persuade him to take the scenic route. And shopping becomes “a major enterprise,” as Khot feels “obliged to go to five stores and take a look at prices,” he said. He tries to avoid the outings whenever possible.
+
+Then there were the cookies. One time, inside a local bakery, Khot was surprised to find that three 33-cent cookies were being sold for a dollar. While it didn’t prevent him from buying the cookies, he said, “even if it’s one cent, it seems off.”
+
+Truly, his wife said, “he’s in the perfect job for his skill set.”
+
+Khot acknowledged that his area of research suits his way of thinking. “In many of the problems that the world faces, in some sense there’s an overemphasis on being optimistic,” he said. “It’s good to know one’s own limitations.”
+
+Khot’s views are also informed by his voracious appetite for other subjects, including economics, history and current events. He studies labor statistics, his wife said, and reads seven or eight newspapers a day. “He knows stuff I had no idea he knew,” Ratnaparkhi said. “At the museum, looking at Renaissance art, he can tell me what the context is.”
+
+While few would mistake Khot’s subtle, rimless glasses for the proverbial rose-tinted variety, those who know him best describe him as kind, gentle and giving. “He is a superb adviser and mentor with great graduate students,” said Naor, who suggested to NYU’s provost in 2007 that the university hire Khot. As Courant Institute colleagues and neighbors in the faculty housing complex, the two have grown closer. “He and his family are my family,” Naor said.
+
+Calling Khot a “first-class mathematician,” Naor highlighted the importance of the big, abstract questions he studies: “The boundaries between tractable and intractable are inherently interesting to us as humans.”
+
+In the three decades preceding Khot’s graduate school research, computer scientists had shown that hundreds of important computational challenges belong to a category called “NP-hard” problems, which most computer scientists believe cannot be solved exactly by any algorithm that runs in a reasonable amount of time. One example is the famous “traveling salesman” problem, which asks for the shortest round-trip route that visits each city in a collection of cities once. By the time Khot arrived at Princeton in 1999, many computer scientists had shifted their focus to exploring efficient algorithms that find good approximate solutions to these difficult problems.
+
+And computer scientists were successful at doing so — for many problems. But in 1992, a team of computer scientists — including Khot’s adviser-to-be, Arora — astonished their colleagues by proving a result called the PCP theorem, which enabled researchers to show that for a wide variety of computational problems, even finding good approximate solutions is NP-hard, meaning that it’s a task that, most computer scientists believe, is impossible to carry out efficiently.
+
+This revelation dashed researchers’ hopes of identifying arbitrarily good approximation algorithms for every problem, but it opened up a new line of inquiry: trying to generate “exact hardness” results, statements of the form, “Here’s an approximation algorithm for problem X and a proof that finding any better approximation is NP-hard.” Shortly before Khot started graduate school, Håstad established exact hardness results for a few approximation problems. It was unclear, however, how to extend his results to other computation problems.
+
+
+At Princeton, after breezing through the department’s prerequisites in three months — course work that usually takes good students a year and average students two, Arora said — Khot started playing around with Håstad’s techniques, trying to establish exact hardness results for several problems. Then came his epiphany while vacationing in India: One of his problems got much simpler if he made a certain assumption about how difficult a certain approximation problem is. Back at Princeton, Khot realized that several of his other problems also became easier if he made the same assumption. He eventually named this assumption the Unique Games Conjecture.
+Proving the Impossible
+
+Khot grew up in Ichalkaranji — considered a small town in India with a population of just under 300,000 — where he was well-known for winning math competitions; his name and picture frequently appeared in the local Marathi-language newspapers Sakal (“Morning”) and Pudhari (“Leader”). At 16, he achieved the highest score countrywide in the Indian Institute of Technology Joint Entrance Exam, a test so notoriously difficult that most eligible students don’t bother to take it. At 17, Khot went off to study computer science at the school in Mumbai without ever having touched a computer.
+
+Khot was an autodidact from an early age. He loved reading Russian science books that had been translated into Marathi. His favorite one included chapters describing rare elements like palladium and gallium. But he seemed destined to follow his parents into the medical profession. His father and mother — an ear, nose and throat specialist and a general practitioner, respectively — ran a clinic on the first two floors of the family’s residence that bustled with patients from the local textile industry, many of whom suffered from respiratory ailments.
+
+Then one day, Khot told his mother that he didn’t want to be a doctor. “I was very interested in chemistry and some physics and eventually mathematics,” he said. “I kind of realized that math was at the base of all these things; so why not study mathematics?”
+
+This change was for the best, Ratnaparkhi joked. “He would have been a terrible doctor,” she said. “He doesn’t like to talk to people.”
+
+During Khot’s high school years, the person who most influenced him was his math teacher and headmaster, V.  G.  Gogate. “He’s like a father or a grandfather,” Khot said. “Whenever I go home, he’s the first person I would call and the first person I would visit.”
+
+After learning in March that he had won the Nevanlinna Prize, Khot said, the most difficult part of keeping it a secret was not being able to tell Gogate. When he finds out about the prize, Khot said, “he will be the happiest person, even more so than me or even my mom.”
+
+Gogate, now 78 and retired, didn’t really teach math to Khot, who for years had been learning on his own by reading advanced texts. “There are no good education facilities in our small town,” said Khot’s mother, Jayashree Khot. “So he had to do it himself.”
+
+Gogate invited Khot and other top students to study at his home and encouraged his charges to be self-sufficient and to help others. Khot not only taught himself everything, Gogate said, but he also assisted all of his friends in science, math, Sanskrit, Marathi and English. “He was finding answers to the questions by thinking himself, and he was guiding all his classmates,” Gogate said.
+
+But it wasn’t easy. Until he began attending IIT, Khot had to figure out the answers to difficult problems by himself. Some problems took him six months to a year to solve. In the end, though, “I think that was very helpful that I learned everything the hard way,” he said. Now, Khot believes that his independence and ability to focus are his greatest strengths as a mathematician. “I’m perfectly happy to spend very long periods on a single problem,” he said.
+
+About a month into his undergraduate program at IIT, tragedy struck: His father died of a heart attack. “After my father’s death, my outlook changed,” he said. Test scores and competition standings no longer seemed all-important. He worked hard but worried less about external outcomes.
+
+In Mumbai, Khot completed the required programming homework but gravitated toward the mathematical aspects of computer science, where, he said, “you don’t really need the computer as a machine.” When he graduated and went to Princeton, he knew he wanted to focus on theoretical computer science.
+
+Khot’s paper describing the Unique Games Conjecture appeared in 2002. The first hint of the conjecture’s power came a year later when Khot and Oded Regev, now of New York University, showed that if the conjecture is true, then it is possible to establish the exact approximation hardness of a problem about networks called Minimum Vertex Cover. Then, in 2004, Khot and three collaborators used the conjecture to produce an unexpected finding. They showed that if the conjecture is true, then the best known approximation algorithm for another network problem called Max Cut — an algorithm that many computer scientists had assumed was just a placeholder until they could find a better one — was truly the best possible.
+
+We understand immediately an infinite class of problems by relying only on the one problem [that Khot] postulated is hard, which is amazing.
+
+Avi Wigderson
+
+Suddenly, everyone was studying the implications of the Unique Games Conjecture. “You should see the number of mathematicians working on problems that emanated from this conjecture,” said Avi Wigderson of the Institute for Advanced Study in Princeton, N.J. The years following the Max Cut result witnessed a flood of approximation hardness results — theorems of the form, “If the Unique Games Conjecture is true, then it’s NP-hard to approximate the solutions of problem X any closer than Y percent.”
+
+“This conjecture suddenly became really interesting and important,” Wigderson said. It even seemed to help prove approximation hardness results about problems that on the surface seemed to have nothing to do with the problem at the heart of the Unique Games Conjecture, which involves assigning colors to the nodes of a network. “What was special about his problem?” Wigderson asked. “It wasn’t clear.”
+
+In 2008, Prasad Raghavendra of the University of California, Berkeley, showed that if the UGC is true, then it’s possible to establish the approximation hardness of an entire category of common computational problems called “constraint satisfaction” problems. These involve trying to find the solution to a problem that satisfies as many of a set of constraints as possible — for example, the wedding seating chart that places feuding family members at different tables as much as possible.
+
+“We understand immediately an infinite class of problems by relying only on the one problem [that Khot] postulated is hard, which is amazing,” Wigderson said. The conjecture “creates an understanding that one rarely expects — that’s why it’s so interesting and beautiful,” he said.
+
+“It has changed the way we think about a lot of problems in computer science,” said Ryan O’Donnell, a theoretical computer scientist at Carnegie Mellon University in Pittsburgh.
+For the problem of coloring the nodes of a network that has a collection of constraints about which color combinations are allowed (top left), it is sometimes possible to find a coloring that satisfies all the constraints (top right). But for some networks and constraints (bottom left), it is impossible to satisfy all the constraints simultaneously. The Unique Games Conjecture concerns the problem of finding a coloring that satisfies as many constraints as possible, such as the bottom right coloring, which satisfies all the constraints except the one for the thick edge.
+
+For the problem of coloring the nodes of a network that has a collection of constraints about which color combinations are allowed (top left), it is sometimes possible to find a coloring that satisfies all the constraints (top right). But for some networks and constraints (bottom left), it is impossible to satisfy all the constraints simultaneously. The Unique Games Conjecture concerns the problem of finding a coloring that satisfies as many constraints as possible, such as the bottom right coloring, which satisfies all the constraints except the one for the thick edge.
+True or False
+
+Khot is most comfortable thinking quietly — whether he’s alone in his office, on a Washington Square Park bench surrounded by strollers, buskers and chess hustlers, in a cafe packed with NYU students or at home in India among family and friends.
+
+“When we go to a movie he doesn’t like, he’s working on his own,” Ratnaparkhi said. “That happens quite a lot.”
+
+If the Unique Games Conjecture is ever disproved, all the approximation hardness results that emanate from it will collapse. But certain other results will hold firm: For some mysterious reason, the proofs of the approximation hardness results and the attempts to prove the conjecture itself have led mathematicians to state — and then prove — an assortment of theorems about seemingly unrelated areas of mathematics, including the geometry of foams, the relationship between different ways of measuring distance, and even the stability of different election systems. “Out popped these very natural questions,” O’Donnell said. These results will hold up regardless of whether the Unique Games Conjecture turns out to be true or false.
+
+It remains to be seen whether computer scientists will be able to prove or disprove Khot’s Unique Games Conjecture. A proof would be a boon to computer scientists, but a disproof might be even more exciting, Arora said. Researchers agree that disproving the conjecture would probably require innovative new algorithmic techniques that could unlock a host of different approximation problems. “If someone came up with an efficient algorithm [for the Unique Games problem], we would have a very valuable new insight into how to design algorithms,” Arora said.
+
+Khot doesn’t expect someone to prove or disprove his conjecture any time soon. “At this point, we can probably hope to just keep constructing pieces of evidence in one direction or another,” he said. He is working on proving the conjecture but is also exploring whether he can come up with different avenues toward proving approximation hardness results. “That’s the real goal,” he said.
+
+Before his son was born nearly three years ago, Khot used to think about problems related to the Unique Games Conjecture all the time. But with fatherhood, he said, “you suddenly realize there are much more important things in life than what you thought before.”
+
+Heading from his office — where he had been discussing his work with long pauses and carefully chosen words — to the playground, where he was to pick up his son, Khot could barely hide his anticipation. As the little boy ran to meet him, Khot’s brow unfurrowed, and a broad smile swept over his face.
+
+“Of all people, he’s happiest when he’s with Neev,” Ratnaparkhi said. “He talks all the time with Neev.”
+
+Khot said that wanting to spend more time with his son has made him more efficient at work. Before, he would do his research in between reading the news and browsing the Internet. Now, “I have 9 to 5 free to work when he is at day care,” Khot said. “I’m much more organized.”
+
+Math occasionally creeps in while he’s playing with his son, Khot said, but “if the guy is running around, what are you going to do?”

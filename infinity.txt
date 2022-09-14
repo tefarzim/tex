@@ -1,0 +1,108 @@
+In the course of exploring their universe, mathematicians have occasionally stumbled across holes: statements that can be neither proved nor refuted with the nine axioms, collectively called “ZFC,” that serve as the fundamental laws of mathematics. Most mathematicians simply ignore the holes, which lie in abstract realms with few practical or scientific ramifications. But for the stewards of math’s logical underpinnings, their presence raises concerns about the foundations of the entire enterprise.
+
+“How can I stay in any field and continue to prove theorems if the fundamental notions I’m using are problematic?” asks Peter Koellner, a professor of philosophy at Harvard University who specializes in mathematical logic.
+
+Chief among the holes is the continuum hypothesis, a 140-year-old statement about the possible sizes of infinity. As incomprehensible as it may seem, endlessness comes in many measures: For example, there are more points on the number line, collectively called the “continuum,” than there are counting numbers. Beyond the continuum lie larger infinities still — an interminable progression of evermore enormous, yet all endless, entities. The continuum hypothesis asserts that there is no infinity between the smallest kind — the set of counting numbers — and what it asserts is the second-smallest — the continuum. It “must be either true or false,” the mathematical logician Kurt Gödel wrote in 1947, “and its undecidability from the axioms as known today can only mean that these axioms do not contain a complete description of reality.”
+
+    Infinity has ruffled feathers in mathematics almost since the field’s beginning.
+
+The decades-long quest for a more complete axiomatic system, one that could settle the infinity question and plug many of the other holes in mathematics at the same time, has arrived at a crossroads. During a recent meeting at Harvard organized by Koellner, scholars largely agreed upon two main contenders for additions to ZFC: forcing axioms and the inner-model axiom “V=ultimate L.”
+
+“If forcing axioms are right, then the continuum hypothesis is false,” Koellner said. “And if the inner-model axiom is right, then the continuum hypothesis is true. You go through a whole list of issues in other fields, and the forcing axioms will answer those questions one way, and ultimate L will answer them a different way.”
+
+According to the researchers, choosing between the candidates boils down to a question about the purpose of logical axioms and the nature of mathematics itself. Are axioms supposed to be the grains of truth that yield the most pristine mathematical universe? In that case, V=ultimate L may be most promising. Or is the point to find the most fruitful seeds of mathematical discovery, a criterion that seems to favor forcing axioms? “The two sides have a somewhat divergent view of what the goal is,” said Justin Moore, a mathematics professor at Cornell University.
+
+Axiomatic systems like ZFC provide rules governing collections of objects called “sets,” which serve as the building blocks of the mathematical universe. Just as ZFC now arbitrates mathematical truth, adding an extra axiom to the rule book would help shape the future of the field — particularly its take on infinity. But unlike most of the ZFC axioms, the new ones “are not self-evident, or at least not self-evident at this stage of our knowledge, so we have a much more difficult task,” said Stevo Todorcevic, a mathematician at the University of Toronto and the French National Center for Scientific Research in Paris.
+
+Proponents of V=ultimate L say that establishing an absence of infinities between the integers and the continuum promises to bring order to the chaos of infinite sets, of which there are, unfathomably, an infinite variety. But the axiom may have minimal consequences for traditional branches of mathematics.
+Hugh Woodin, 58, is the leading proponent of an axiom called V=ultimate L that could help decide the fuller nature of infinity.
+
+Hugh Woodin, 58, is the leading proponent of an axiom called V=ultimate L that could help decide the fuller nature of infinity.
+
+Courtesy of Hugh Woodin
+
+“Set theory is in the business of understanding infinity,” said Hugh Woodin, who is a mathematician at the University of California, Berkeley; the architect of V=ultimate L; and one of the most prominent living set theorists. The familiar numbers relevant to most mathematics, Woodin argues, “are an insignificant piece of the universe of sets.”
+
+Meanwhile, forcing axioms, which deem the continuum hypothesis false by adding a new size of infinity, would also extend the frontiers of mathematics in other directions. They are workhorses that regular mathematicians “can actually go out and use in the field, so to speak,” Moore said. “To me, this is ultimately what foundations [of mathematics] should be doing.”
+
+New advances in the study of V=ultimate L and newfound uses of forcing axioms, especially one called “Martin’s maximum” after the mathematician Donald Martin, have energized the debate about which axiom to adopt. And there’s a third point of view that disagrees with the debate’s very premise. According to some theorists, there are myriad mathematical universes, some in which the continuum hypothesis is true and others in which it is false — but all equally worth exploring. Meanwhile, “there are some skeptics,” Koellner said, “people who for philosophical reasons think set theory and the higher infinite doesn’t even make any sense.”
+Infinite Paradoxes
+
+Infinity has ruffled feathers in mathematics almost since the field’s beginning. The controversy arises not from the notion of potential infinity —the number line’s promise of continuing forever — but from the concept of infinity as an actual, complete, manipulable object.
+
+“What truly infinite objects exist in the real world?” asks Stephen Simpson, a mathematician and logician at Pennsylvania State University. Taking a view originally espoused by Aristotle, Simpson argues that actual infinity doesn’t really exist and so it should not so readily be assumed to exist in the mathematical universe. He leads an effort to wean mathematics off actual infinity, by showing that the vast majority of theorems can be proved using only the notion of potential infinity. “But potential infinity is almost forgotten now,” Simpson said. “In the ZFC set theory mindset, people tend not to even remember that distinction. They just think infinity means actual infinity and that’s all there is to it.”
+Georg Cantor, shown here circa 1870, proved that infinite sets come in different sizes. Many of his contemporaries despised his work, but it had a prevailing influence on mathematics.
+
+Georg Cantor, shown here circa 1870, proved that infinite sets come in different sizes. Many of his contemporaries despised his work, but it had a prevailing influence on mathematics.
+
+Infinity was boxed and sold to the mathematical community in the late 19th century by the German mathematician Georg Cantor. Cantor invented a branch of mathematics dealing with sets — collections of elements that ranged from empty (the equivalent of the number zero) to infinite. His “set theory” was such a useful language for describing mathematical objects that within decades, it became the field’s lingua franca. A nine-item list of rules called Zermelo-Fraenkel set theory with the axiom of choice, or ZFC, was established and widely adopted by the 1920s. Translated into plain English, one of the axioms says two sets are equal if they contain the same elements. Another simply asserts that infinite sets exist.
+
+Assuming actual infinity leads to unsettling consequences. Cantor proved, for instance, that the infinite set of even numbers {2,4,6,…} could be put in a “one-to-one correspondence” with all counting numbers {1,2,3,…}, indicating that there are just as many evens as there are odds-and-evens.
+
+More shocking was his proving in 1873 that the continuum of real numbers (such as 0.00001, 2.568023489, pi and so on) is “uncountable”: Real numbers do not correspond in a one-to-one fashion with the counting numbers because for any numbered list of them, it is always possible to come up with a real number that isn’t on the list. The infinite sets of real numbers and counting numbers have different sizes, or in Cantor’s parlance, different “cardinal numbers.” In fact, he found that there are not two but an infinite sequence of ever-larger cardinals, each new infinity consisting of the power set, or set of all subsets, of the infinite set before it.
+
+Some mathematicians despised this mess of infinities. One of Cantor’s colleagues called them a “grave disease”; another called him a “corruptor of youth.” But by the logic of set theory, it was true.
+
+Cantor wondered about the two smallest cardinals. “It’s in some sense the most fundamental question you can ask,” Woodin said. “Is there an infinity in between, or is the infinity of the real numbers the first infinity past the infinity of the counting numbers?”
+
+All the obvious candidates for a mid-size infinity fail. Rational numbers (ratios of integers such as ½) are countable and thus have the same cardinality as the counting numbers. And there are just as many real numbers in any slice of the continuum (such as between 0 and 1) as there are in the whole set. Cantor guessed that there was no infinity in between countable sets and the continuum. But he couldn’t prove this “continuum hypothesis” using the axioms of set theory. Nor could anyone else.
+Because each point on the interval (0, 1) corresponds to the point on (0, 2) that lies on the same red line, there are just as many real numbers between 0 and 1 as there are between 0 and 2. This “one-to-one correspondence” proves both infinite sets are the same size.
+
+Because each point on the interval (0, 1) corresponds to the point on (0, 2) that lies on the same red line, there are just as many real numbers between 0 and 1 as there are between 0 and 2. This “one-to-one correspondence” proves both infinite sets are the same size.
+
+Then, in 1931, Gödel, who had recently finished his doctorate at the University of Vienna, made an astounding discovery. With a pair of proofs, the 25-year-old Gödel showed that a specifiable yet sufficiently complex axiomatic system like ZFC could never be both consistent and complete. Proving that its axioms are consistent (that is, that they don’t lead to contradictions) requires an additional axiom not on the list. And to prove that ZFC-plus-that-axiom is consistent, yet another axiom is needed. “Gödel’s incompleteness theorems told us we are never going to be able to catch our own tail,” Moore said.
+
+The incompleteness of ZFC means that the mathematical universe that its axioms generate will inevitably have holes. “There will be [statements] that cannot be decided by those principles,” Woodin said. It soon became clear that the continuum hypothesis, “the most fundamental question you can ask” about infinity, was such a hole. Gödel himself proved that the truth of the continuum hypothesis is consistent with ZFC, and Paul Cohen, an American mathematician, proved the opposite, that the negation of the hypothesis is also consistent with ZFC. Their combined results demonstrated that the continuum hypothesis is actually independent of the axioms. Something beyond ZFC is needed to prove or refute it.
+
+With the hypothesis unresolved, many other properties of cardinal numbers and infinity remain uncertain too. To set theory skeptics like Solomon Feferman, a professor emeritus of mathematics and philosophy at Stanford University, this doesn’t matter. “They’re simply not relevant to everyday mathematics,” Feferman said.
+
+But to those who spend their days wandering in the universe of sets known as “V,” where almost everything is infinite, the questions loom large. “We don’t have a clear vision of the universe of sets,” Woodin said. “Almost any question you write down about sets is unsolvable. It’s not a satisfactory situation.”
+Universe of Sets
+
+Gödel and Cohen, whose combined work led to the current crossroads in set theory, happen to be the founders of the two schools of thought about where to go from here.
+
+Gödel conceived of a small and constructible model universe called “L,” populated by starting with the empty set and iterating it to build bigger and bigger sets. In the universe of sets that results, the continuum hypothesis is true: There is no infinite set between that of the integers and the continuum. “Unlike the chaos of the universe of sets, you can really analyze L,” Woodin said. This makes the axiom “V=L,” or the statement that the universe of sets V is equal to the “inner model” L, appealing. According to Woodin, there’s only one problem: “It severely limits the nature of infinity.”
+
+L is too small to encompass “large cardinals,” infinite sets that ascend in a never-ending hierarchy, with levels named “inaccessible,” “measurable,” “Woodin,” “supercompact,” “huge” and so on, altogether composing a cacophonous symphony of infinities. Discovered periodically over the 20th century, these large cardinals cannot be proved to exist with ZFC and instead must be posited with additional “large cardinal axioms.” But over the decades, they have been shown to generate rich and interesting mathematics. “As you climb up the large cardinal hierarchy, you get more and more significant consequences,” Koellner said.
+
+    As many of the mathematicians pointed out, the debate itself reveals a lack of human intuition regarding the concept of infinity.
+
+To keep this symphony of infinities, set theorists have striven for decades to find an inner model that is as pristine and analyzable as L but incorporates large cardinals. However, constructing a universe of sets that included each type of large cardinal required a unique tool kit. For each larger, more inclusive inner model, “you had to do something completely different,” Koellner said. “Since the large cardinal hierarchy just goes on and on forever, it looked like we had to go on and on forever too, building as many new inner models as there are transition points in the large cardinal hierarchy. And that kind of makes it look hopeless because, you know, life is short.”
+
+Because there was no largest large cardinal, it seemed like there could be no ultimate L, an inner model that encompassed them all. “Then something very surprising happened,” Woodin said. In work that was published in 2010, he discovered a breakaway point in the hierarchy.
+
+“Woodin showed that if you can just reach the level of the supercompacts, then there’s an overflow and your inner model picks up all the bigger large cardinals as well,” Koellner explained. “That was a sort of landscape shift. It provided this new hope that this approach can work. All you have to do is hit one supercompact and then you’ve got it all.”
+
+Although it has not yet been constructed, ultimate L is the name for the hypothetical inner model that includes supercompacts and therefore all large cardinals. The axiom V=ultimate L asserts that this inner model is the universe of sets.
+
+Woodin, who is moving from Berkeley to Harvard in January, recently completed the first part of a four-stage proof of the ultimate L conjecture and is now vetting it with a small group of colleagues. He says he is “very optimistic about stage two” of the proof and hopes to finish it by next summer. “It all comes down to this conjecture, and if one can prove it, one proves the existence of ultimate L and verifies it is compatible with all notions of infinity, not only that we have thought of today but that we could ever think of,” he said. “If the ultimate L conjecture is true, then there’s an absolutely compelling case that V is ultimate L.”
+Expanding the Universe
+
+Even if ultimate L exists, can be constructed and is every bit as glorious as Woodin hopes, it isn’t everyone’s ideal universe. “There’s a contrary impulse running through much of set-theoretic history that tells us the universe should be as rich as possible, not as small as possible,” said Penelope Maddy, a philosopher of mathematics at the University of California, Irvine and the author of “Defending the Axioms,” published in 2011. “And that’s what motivates the forcing axioms.”
+
+To expand ZFC, address the continuum hypothesis and better understand infinity, advocates of forcing axioms put stock in a method called forcing, originally conceived of by Cohen. If inner models build a universe of sets from the ground up, forcing expands it outward in all directions.
+
+Todorcevic, one of the method’s leading specialists, compares forcing to the invention of complex numbers, which are real numbers with an extra dimension. But instead of starting with real numbers, “you are starting with the universe of sets, and then you extend it to form a new, bigger universe,” he said. In the extended universe created by forcing, there is a larger class of real numbers than in the original universe defined by ZFC. This means the real numbers of ZFC constitute a smaller infinite set than the full continuum. “In this way, you falsify the continuum hypothesis,” Todorcevic said.
+
+A forcing axiom called “Martin’s maximum,” discovered in the 1980s, extends the universe as far as it can go. It is the most powerful rival for V=ultimate L, albeit much less beautiful. “From a philosophical point, it is much harder to justify this axiom,” Todorcevic said. “It could only be justified in terms of the influence it has on the rest of mathematics.”
+Stevo Todorcevic has helped show that forcing axioms bestow many mathematical structures with user-friendly properties.
+
+Stevo Todorcevic has helped show that forcing axioms bestow many mathematical structures with user-friendly properties.
+
+George M. Bergman, Berkeley
+
+This is where forcing axioms shine. While V=ultimate L is busy building a castle of unimaginable infinities, forcing axioms fill some problematic potholes in everyday mathematics. Work over the past few years by Todorcevic, Moore, Carlos Martinez-Ranero and others shows that they bestow many mathematical structures with nice properties that make them easier to use and understand.
+
+To Moore, these sorts of results give forcing axioms the advantage over inner models. “Ultimately, the decision has to be grounded in: ‘What does it do for mathematics?’ ” he said. “Aside from its own intrinsic interest, what good mathematics does it produce?”
+
+“My response would be, it’s certainly true that Martin’s maximum is great for understanding structures in classical mathematics,” Woodin said. “That’s not what set theory is about, to me. It’s not clear how Martin’s maximum is going to lead to a better understanding of infinity.”
+
+At the recent Harvard meeting, researchers from both camps presented new work on inner models and forcing axioms and discussed their relative merits. The back-and-forth will likely continue, they said, until one or the other candidate falls by the wayside. Ultimate L could turn out not to exist, for example. Or perhaps Martin’s maximum isn’t as beneficial as its proponents hope.
+
+As many of the mathematicians pointed out, the debate itself reveals a lack of human intuition regarding the concept of infinity. “Until you further investigate the consequences of the continuum hypothesis, you don’t have any real intuition as to whether it’s true or false,” Moore said.
+
+Mathematics has a reputation for objectivity. But without real-world infinite objects upon which to base abstractions, mathematical truth becomes, to some extent, a matter of opinion — which is Simpson’s argument for keeping actual infinity out of mathematics altogether. The choice between V=ultimate L and Martin’s maximum is perhaps less of a true-false problem and more like asking which is lovelier, an English garden or a forest?
+
+“It’s a personal thing,” Moore said.
+
+However, the field of mathematics is known for its unity and cohesion. Just as ZFC came to dominate alternative foundational frameworks in the early 20th century, firmly embedding actual infinity in mathematical thinking and practice, it is likely that only one new axiom to decide the fuller nature of infinity will survive. According to Koellner, “one side is going to have to be wrong.”
